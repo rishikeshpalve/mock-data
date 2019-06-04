@@ -1,0 +1,14 @@
+    {
+        "passengerId": 3,
+        "pnr": "ZDM2WV",
+        "origin": "SEA",
+        "destination": "JFK",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "0:29",
+        "arrivalTime": "17:38",
+        "airline": "UA",
+        "flightNumber": 87,
+        "hasStopover": true,
+        "flightStatus": "DELAYED"
+    }

@@ -1,0 +1,14 @@
+    {
+        "passengerId": 7,
+        "pnr": "QSJ9RI",
+        "origin": "SJC",
+        "destination": "NYC",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "0:46",
+        "arrivalTime": "13:46",
+        "airline": "UA",
+        "flightNumber": 73,
+        "hasStopover": true,
+        "flightStatus": "ONTIME"
+    }

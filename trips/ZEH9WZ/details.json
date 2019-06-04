@@ -1,0 +1,14 @@
+    {
+        "passengerId": 2,
+        "pnr": "ZEH9WZ",
+        "origin": "JFK",
+        "destination": "SEA",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "0:54",
+        "arrivalTime": "19:34",
+        "airline": "B6",
+        "flightNumber": 60,
+        "hasStopover": true,
+        "flightStatus": "DELAYED"
+    }

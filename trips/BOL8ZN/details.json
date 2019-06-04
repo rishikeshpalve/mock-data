@@ -1,0 +1,14 @@
+    {
+        "passengerId": 6,
+        "pnr": "BOL8ZN",
+        "origin": "SJC",
+        "destination": "EWR",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "9:27",
+        "arrivalTime": "10:30",
+        "airline": "WN",
+        "flightNumber": 54,
+        "hasStopover": true,
+        "flightStatus": "DELAYED"
+    }

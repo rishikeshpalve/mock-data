@@ -1,0 +1,14 @@
+    {
+        "passengerId": 5,
+        "pnr": "JHW9CL",
+        "origin": "EWR",
+        "destination": "LAX",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "12:58",
+        "arrivalTime": "16:31",
+        "airline": "WN",
+        "flightNumber": 54,
+        "hasStopover": true,
+        "flightStatus": "DELAYED"
+    }

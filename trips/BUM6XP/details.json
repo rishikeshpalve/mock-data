@@ -1,0 +1,14 @@
+    {
+        "passengerId": 8,
+        "pnr": "BUM6XP",
+        "origin": "SFO",
+        "destination": "ORD",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "0:25",
+        "arrivalTime": "16:22",
+        "airline": "9W",
+        "flightNumber": 71,
+        "hasStopover": false,
+        "flightStatus": "ONTIME"
+    }

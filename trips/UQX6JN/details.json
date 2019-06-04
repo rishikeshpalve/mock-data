@@ -1,0 +1,14 @@
+    {
+        "passengerId": 1,
+        "pnr": "UQX6JN",
+        "origin": "LAS",
+        "destination": "LAX",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "13:14",
+        "arrivalTime": "6:16",
+        "airline": "WN",
+        "flightNumber": 62,
+        "hasStopover": true,
+        "flightStatus": "DELAYED"
+    }

@@ -1,0 +1,14 @@
+    {
+        "passengerId": 10,
+        "pnr": "RHS4TG",
+        "origin": "LAX",
+        "destination": "SEA",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "11:09",
+        "arrivalTime": "18:03",
+        "airline": "UA",
+        "flightNumber": 93,
+        "hasStopover": false,
+        "flightStatus": "ONTIME"
+    }

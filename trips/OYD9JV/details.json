@@ -1,0 +1,14 @@
+    {
+        "passengerId": 4,
+        "pnr": "OYD9JV",
+        "origin": "LAX",
+        "destination": "SEA",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "3:16",
+        "arrivalTime": "12:44",
+        "airline": "WN",
+        "flightNumber": 88,
+        "hasStopover": false,
+        "flightStatus": "DELAYED"
+    }

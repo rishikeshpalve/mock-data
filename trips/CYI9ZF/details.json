@@ -1,0 +1,14 @@
+    {
+        "passengerId": 9,
+        "pnr": "CYI9ZF",
+        "origin": "SJC",
+        "destination": "LAX",
+        "departureDate": "6/12/2019",
+        "arrivalDate": "6/13/2019",
+        "departureTime": "14:30",
+        "arrivalTime": "19:19",
+        "airline": "UA",
+        "flightNumber": 75,
+        "hasStopover": true,
+        "flightStatus": "ONTIME"
+    }
