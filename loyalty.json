@@ -1,0 +1,52 @@
+[
+    {
+        "ffNumber": "2835160728",
+        "loyaltyStatus": "PLATINUM",
+        "milesBalance": 222673
+    },
+    {
+        "ffNumber": "1786197634",
+        "loyaltyStatus": "PLATINUM",
+        "milesBalance": 345679
+    },
+    {
+        "ffNumber": "6662012939",
+        "loyaltyStatus": "GOLD",
+        "milesBalance": 123456
+    },
+    {
+        "ffNumber": "0504067761",
+        "loyaltyStatus": "GOLD",
+        "milesBalance": 145623
+    },
+    {
+        "ffNumber": "4488622542",
+        "loyaltyStatus": "GOLD",
+        "milesBalance": 134562
+    },
+    {
+        "ffNumber": "8942592163",
+        "loyaltyStatus": "GOLD",
+        "milesBalance": 132645
+    },
+    {
+        "ffNumber": "7280617816",
+        "loyaltyStatus": "SILVER",
+        "milesBalance": 50000
+    },
+    {
+        "ffNumber": "8330847144",
+        "loyaltyStatus": "SILVER",
+        "milesBalance": 62456
+    },
+    {
+        "ffNumber": "7348788157",
+        "loyaltyStatus": "SILVER",
+        "milesBalance": 53456
+    },
+    {
+        "ffNumber": "2430832739",
+        "loyaltyStatus": "SILVER",
+        "milesBalance": 54321
+    }
+]
