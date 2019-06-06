@@ -1,14 +1,17 @@
     {
         "passengerId": 1,
         "pnr": "UQX6JN",
-        "origin": "LAS",
-        "destination": "LAX",
-        "departureDate": "6/12/2019",
-        "arrivalDate": "6/13/2019",
-        "departureTime": "13:14",
-        "arrivalTime": "6:16",
-        "airline": "WN",
-        "flightNumber": 62,
+        "originCode": "ORD",
+        "originName": "Chicago",
+        "destinationCode": "SEA",
+        "destinationCode": "Seattle",
+        "departureDate": "2019/06/14",
+        "arrivalDate": "2019/06/15",
+        "departureTime": "3:44 PM",
+        "arrivalTime": "6:16 AM",
+        "airline": "WX",
+        "flightNumber": 185,
         "hasStopover": true,
-        "flightStatus": "DELAYED"
+        "flightStatus": "DELAYED",
+        "gateNumber": "15"
     }
